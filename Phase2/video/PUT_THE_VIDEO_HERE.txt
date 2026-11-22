@@ -1,0 +1,17 @@
+Phase II video
+==============
+
+Save the recorded video in THIS folder, for example as  Phase2_Video.mp4
+
+What the brief asks for: a 3-minute video showing the heuristic and local search results and
+the final comparison. It is graded on being clear and on having clear take-away messages.
+As in Phase I, every team member should appear or speak.
+
+The folder "preparation" contains what you need to record it:
+  Phase2_Slides.pptx / .pdf          the slides (the spoken text is also in the speaker notes)
+  Phase2_Video_Script.docx / .pdf    who says what and when (five parts, 3:00 in total)
+
+Animated pictures of Greedy and A* are in  ..\code\results\phase2\animations
+
+When the video is in this folder, double-click  make_phase2_archive.bat  in the project folder.
+The "preparation" folder and this text file are not put into the archive.

@@ -1,0 +1,4 @@
+layout,fewest_steps,cheapest_cost_with_fewest_steps,optimal_cost,fewest_steps_at_optimal_cost,genuine_tradeoff
+small,22,42,38,26,True
+medium,34,42,39,39,True
+large,26,30,28,28,True

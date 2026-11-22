@@ -1,0 +1,16 @@
+layout,algorithm,runs,best,mean,worst,std,optimal_runs,mean_evaluations,mean_iterations,run_time_ms,setup_ms,time_ms,time_std_ms,peak_memory_kib,orders_in_memory
+small,Hill Climbing,30,38,39.43,43,2.08,20,28.7,1.8,0.024,0.114,0.137,0.005,17.5,12
+small,Simulated Annealing,30,38,38,38,0.0,30,920,919,1.16,0.114,1.273,0.023,19.0,3
+small,Genetic Algorithm,30,38,38,38,0.0,30,930,30,3.85,0.114,3.964,0.037,25.3,61
+small,Hill Climbing (9 restarts),30,38,38,38,0.0,30,285.7,17.6,0.142,0.114,0.255,0.012,20.7,12
+small,Random sampling (920 orders),30,38,38,38,0.0,30,920,920,0.885,0.114,0.998,0.015,18.6,2
+medium,Hill Climbing,30,39,39.1,40,0.31,27,42.5,1.8,0.032,0.23,0.261,0.006,26.7,17
+medium,Simulated Annealing,30,39,39,39,0.0,30,920,919,1.178,0.23,1.408,0.02,26.7,3
+medium,Genetic Algorithm,30,39,39,39,0.0,30,930,30,3.961,0.23,4.191,0.068,32.4,61
+medium,Hill Climbing (9 restarts),30,39,39,39,0.0,30,429.5,18.0,0.212,0.23,0.442,0.017,28.3,17
+medium,Random sampling (920 orders),30,39,39,39,0.0,30,920,920,1.015,0.23,1.245,0.015,26.7,2
+large,Hill Climbing,30,28,29.27,33,1.55,16,72.9,1.6,0.051,0.185,0.236,0.013,32.0,30
+large,Simulated Annealing,30,28,28,28,0.0,30,920,919,1.232,0.185,1.417,0.022,26.2,3
+large,Genetic Algorithm,30,28,28,28,0.0,30,930,30,4.529,0.185,4.715,0.205,34.0,61
+large,Hill Climbing (9 restarts),30,28,28.07,30,0.37,29,752.9,16.5,0.416,0.185,0.601,0.057,32.3,30
+large,Random sampling (920 orders),30,28,28,28,0.0,30,920,920,1.25,0.185,1.435,0.032,25.8,2

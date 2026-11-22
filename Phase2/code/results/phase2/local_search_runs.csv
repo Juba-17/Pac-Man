@@ -1,0 +1,451 @@
+layout,algorithm,seed,cost,optimal,evaluations,iterations,time_ms,order,eating_order
+small,Hill Climbing,0,38,True,31,2,0.026,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing,1,38,True,41,3,0.034,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing,2,43,False,21,1,0.019,2 4 3 1 0,2 3 4 1 0
+small,Hill Climbing,3,42,False,11,0,0.014,0 2 3 4 1,0 2 3 4 1
+small,Hill Climbing,4,42,False,31,2,0.026,0 2 3 4 1,0 2 3 4 1
+small,Hill Climbing,5,38,True,21,1,0.018,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing,6,38,True,41,3,0.029,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing,7,38,True,41,3,0.028,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing,8,38,True,31,2,0.025,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing,9,38,True,31,2,0.03,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing,10,38,True,41,3,0.028,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing,11,38,True,41,3,0.028,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing,12,38,True,11,0,0.013,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing,13,38,True,31,2,0.024,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing,14,43,False,21,1,0.018,2 4 3 1 0,2 3 4 1 0
+small,Hill Climbing,15,42,False,21,1,0.019,0 3 2 4 1,0 3 2 4 1
+small,Hill Climbing,16,38,True,21,1,0.019,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing,17,38,True,31,2,0.028,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing,18,38,True,41,3,0.029,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing,19,42,False,21,1,0.021,0 3 2 4 1,0 3 2 4 1
+small,Hill Climbing,20,42,False,31,2,0.024,0 2 3 4 1,0 2 3 4 1
+small,Hill Climbing,21,38,True,31,2,0.024,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing,22,42,False,21,1,0.019,0 3 2 4 1,0 3 2 4 1
+small,Hill Climbing,23,38,True,31,2,0.025,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing,24,38,True,31,2,0.023,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing,25,38,True,21,1,0.019,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing,26,42,False,21,1,0.023,0 2 3 4 1,0 2 3 4 1
+small,Hill Climbing,27,38,True,31,2,0.026,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing,28,43,False,21,1,0.021,2 4 3 1 0,2 3 4 1 0
+small,Hill Climbing,29,38,True,41,3,0.028,0 1 4 3 2,0 1 4 3 2
+small,Simulated Annealing,0,38,True,920,919,1.203,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,1,38,True,920,919,1.179,0 1 4 3 2,0 1 4 3 2
+small,Simulated Annealing,2,38,True,920,919,1.167,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,3,38,True,920,919,1.17,0 1 4 3 2,0 1 4 3 2
+small,Simulated Annealing,4,38,True,920,919,1.156,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,5,38,True,920,919,1.155,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,6,38,True,920,919,1.132,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,7,38,True,920,919,1.161,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,8,38,True,920,919,1.162,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,9,38,True,920,919,1.17,0 1 4 3 2,0 1 4 3 2
+small,Simulated Annealing,10,38,True,920,919,1.204,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,11,38,True,920,919,1.172,0 1 4 3 2,0 1 4 3 2
+small,Simulated Annealing,12,38,True,920,919,1.142,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,13,38,True,920,919,1.168,0 1 4 3 2,0 1 4 3 2
+small,Simulated Annealing,14,38,True,920,919,1.157,0 1 4 3 2,0 1 4 3 2
+small,Simulated Annealing,15,38,True,920,919,1.151,0 1 4 3 2,0 1 4 3 2
+small,Simulated Annealing,16,38,True,920,919,1.165,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,17,38,True,920,919,1.139,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,18,38,True,920,919,1.22,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,19,38,True,920,919,1.115,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,20,38,True,920,919,1.169,0 1 4 3 2,0 1 4 3 2
+small,Simulated Annealing,21,38,True,920,919,1.123,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,22,38,True,920,919,1.159,0 1 4 3 2,0 1 4 3 2
+small,Simulated Annealing,23,38,True,920,919,1.163,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,24,38,True,920,919,1.121,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,25,38,True,920,919,1.174,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,26,38,True,920,919,1.141,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,27,38,True,920,919,1.165,0 1 4 3 2,0 1 4 3 2
+small,Simulated Annealing,28,38,True,920,919,1.142,0 1 4 2 3,0 1 4 3 2
+small,Simulated Annealing,29,38,True,920,919,1.147,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,0,38,True,930,30,3.885,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,1,38,True,930,30,3.841,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,2,38,True,930,30,3.875,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,3,38,True,930,30,3.851,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,4,38,True,930,30,3.957,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,5,38,True,930,30,3.845,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,6,38,True,930,30,3.871,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,7,38,True,930,30,3.827,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,8,38,True,930,30,3.809,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,9,38,True,930,30,3.827,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,10,38,True,930,30,3.841,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,11,38,True,930,30,3.896,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,12,38,True,930,30,3.835,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,13,38,True,930,30,3.829,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,14,38,True,930,30,3.797,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,15,38,True,930,30,3.838,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,16,38,True,930,30,3.835,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,17,38,True,930,30,3.861,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,18,38,True,930,30,3.912,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,19,38,True,930,30,3.84,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,20,38,True,930,30,3.83,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,21,38,True,930,30,3.883,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,22,38,True,930,30,3.864,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,23,38,True,930,30,3.909,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,24,38,True,930,30,3.819,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,25,38,True,930,30,3.845,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,26,38,True,930,30,3.833,0 1 4 3 2,0 1 4 3 2
+small,Genetic Algorithm,27,38,True,930,30,3.857,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,28,38,True,930,30,3.829,0 1 4 2 3,0 1 4 3 2
+small,Genetic Algorithm,29,38,True,930,30,3.774,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),0,38,True,260,15,0.133,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),1,38,True,310,20,0.153,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),2,38,True,290,18,0.148,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),3,38,True,270,16,0.131,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),4,38,True,320,21,0.154,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),5,38,True,290,18,0.146,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),6,38,True,300,19,0.152,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),7,38,True,320,21,0.157,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),8,38,True,320,21,0.148,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),9,38,True,300,19,0.149,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),10,38,True,280,17,0.133,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),11,38,True,350,24,0.167,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),12,38,True,310,20,0.146,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),13,38,True,260,15,0.131,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),14,38,True,260,15,0.132,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),15,38,True,200,9,0.106,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),16,38,True,320,21,0.154,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),17,38,True,260,15,0.137,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),18,38,True,250,14,0.128,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),19,38,True,270,16,0.137,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),20,38,True,270,16,0.136,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),21,38,True,320,21,0.159,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),22,38,True,280,17,0.143,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),23,38,True,280,17,0.137,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),24,38,True,270,16,0.135,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),25,38,True,280,17,0.136,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),26,38,True,280,17,0.135,0 1 4 3 2,0 1 4 3 2
+small,Hill Climbing (9 restarts),27,38,True,290,18,0.144,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),28,38,True,260,15,0.133,0 1 4 2 3,0 1 4 3 2
+small,Hill Climbing (9 restarts),29,38,True,300,19,0.153,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),0,38,True,920,920,0.894,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),1,38,True,920,920,0.872,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),2,38,True,920,920,0.895,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),3,38,True,920,920,0.866,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),4,38,True,920,920,0.884,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),5,38,True,920,920,0.886,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),6,38,True,920,920,0.916,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),7,38,True,920,920,0.886,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),8,38,True,920,920,0.91,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),9,38,True,920,920,0.879,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),10,38,True,920,920,0.857,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),11,38,True,920,920,0.873,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),12,38,True,920,920,0.891,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),13,38,True,920,920,0.876,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),14,38,True,920,920,0.87,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),15,38,True,920,920,0.905,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),16,38,True,920,920,0.884,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),17,38,True,920,920,0.861,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),18,38,True,920,920,0.891,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),19,38,True,920,920,0.888,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),20,38,True,920,920,0.887,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),21,38,True,920,920,0.881,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),22,38,True,920,920,0.899,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),23,38,True,920,920,0.898,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),24,38,True,920,920,0.897,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),25,38,True,920,920,0.89,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),26,38,True,920,920,0.901,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),27,38,True,920,920,0.88,0 1 4 3 2,0 1 4 3 2
+small,Random sampling (920 orders),28,38,True,920,920,0.86,0 1 4 2 3,0 1 4 3 2
+small,Random sampling (920 orders),29,38,True,920,920,0.857,0 1 4 3 2,0 1 4 3 2
+medium,Hill Climbing,0,39,True,31,1,0.025,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Hill Climbing,1,39,True,46,2,0.031,4 5 3 0 2 1,1 4 5 3 0 2
+medium,Hill Climbing,2,39,True,61,3,0.039,4 5 1 0 3 2,1 4 5 3 0 2
+medium,Hill Climbing,3,39,True,61,3,0.044,4 1 5 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing,4,39,True,31,1,0.025,4 5 3 0 2 1,1 4 5 3 0 2
+medium,Hill Climbing,5,39,True,46,2,0.032,4 5 3 0 2 1,1 4 5 3 0 2
+medium,Hill Climbing,6,39,True,31,1,0.025,4 5 1 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing,7,39,True,31,1,0.029,4 5 0 3 1 2,1 4 5 3 0 2
+medium,Hill Climbing,8,39,True,31,1,0.028,4 5 0 3 2 1,1 4 5 3 0 2
+medium,Hill Climbing,9,39,True,61,3,0.039,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Hill Climbing,10,39,True,31,1,0.029,4 5 1 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing,11,39,True,46,2,0.031,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Hill Climbing,12,39,True,46,2,0.032,4 5 0 1 2 3,1 4 5 3 0 2
+medium,Hill Climbing,13,39,True,46,2,0.034,4 5 3 1 0 2,1 4 5 3 0 2
+medium,Hill Climbing,14,40,False,46,2,0.032,4 2 5 1 3 0,1 4 2 5 3 0
+medium,Hill Climbing,15,39,True,61,3,0.042,4 1 5 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing,16,39,True,31,1,0.024,4 5 1 0 3 2,1 4 5 3 0 2
+medium,Hill Climbing,17,39,True,46,2,0.034,4 5 0 2 3 1,1 4 5 3 0 2
+medium,Hill Climbing,18,39,True,31,1,0.026,1 4 5 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing,19,39,True,46,2,0.033,1 4 5 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing,20,39,True,46,2,0.031,4 5 0 2 1 3,1 4 5 3 0 2
+medium,Hill Climbing,21,39,True,46,2,0.038,4 5 0 2 3 1,1 4 5 3 0 2
+medium,Hill Climbing,22,39,True,46,2,0.034,1 4 5 0 2 3,1 4 5 3 0 2
+medium,Hill Climbing,23,39,True,31,1,0.027,4 1 5 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing,24,39,True,31,1,0.024,4 5 0 1 3 2,1 4 5 3 0 2
+medium,Hill Climbing,25,40,False,16,0,0.019,4 2 5 1 0 3,1 4 2 5 3 0
+medium,Hill Climbing,26,39,True,61,3,0.042,4 5 0 2 1 3,1 4 5 3 0 2
+medium,Hill Climbing,27,39,True,46,2,0.031,4 5 1 0 3 2,1 4 5 3 0 2
+medium,Hill Climbing,28,40,False,31,1,0.025,4 2 5 3 1 0,1 4 2 5 3 0
+medium,Hill Climbing,29,39,True,61,3,0.043,4 5 3 1 0 2,1 4 5 3 0 2
+medium,Simulated Annealing,0,39,True,920,919,1.165,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Simulated Annealing,1,39,True,920,919,1.166,4 5 0 1 2 3,1 4 5 3 0 2
+medium,Simulated Annealing,2,39,True,920,919,1.199,4 5 0 3 1 2,1 4 5 3 0 2
+medium,Simulated Annealing,3,39,True,920,919,1.16,1 4 5 3 0 2,1 4 5 3 0 2
+medium,Simulated Annealing,4,39,True,920,919,1.236,4 5 0 1 2 3,1 4 5 3 0 2
+medium,Simulated Annealing,5,39,True,920,919,1.176,4 5 3 0 2 1,1 4 5 3 0 2
+medium,Simulated Annealing,6,39,True,920,919,1.17,4 1 5 3 0 2,1 4 5 3 0 2
+medium,Simulated Annealing,7,39,True,920,919,1.18,4 1 5 3 0 2,1 4 5 3 0 2
+medium,Simulated Annealing,8,39,True,920,919,1.149,4 5 0 1 2 3,1 4 5 3 0 2
+medium,Simulated Annealing,9,39,True,920,919,1.185,4 5 0 1 2 3,1 4 5 3 0 2
+medium,Simulated Annealing,10,39,True,920,919,1.165,1 4 5 0 3 2,1 4 5 3 0 2
+medium,Simulated Annealing,11,39,True,920,919,1.184,4 5 0 3 1 2,1 4 5 3 0 2
+medium,Simulated Annealing,12,39,True,920,919,1.143,4 1 5 3 0 2,1 4 5 3 0 2
+medium,Simulated Annealing,13,39,True,920,919,1.19,1 4 5 0 3 2,1 4 5 3 0 2
+medium,Simulated Annealing,14,39,True,920,919,1.188,1 4 5 0 3 2,1 4 5 3 0 2
+medium,Simulated Annealing,15,39,True,920,919,1.186,4 1 5 3 0 2,1 4 5 3 0 2
+medium,Simulated Annealing,16,39,True,920,919,1.201,1 4 5 0 3 2,1 4 5 3 0 2
+medium,Simulated Annealing,17,39,True,920,919,1.166,4 1 5 0 3 2,1 4 5 3 0 2
+medium,Simulated Annealing,18,39,True,920,919,1.178,4 5 3 1 0 2,1 4 5 3 0 2
+medium,Simulated Annealing,19,39,True,920,919,1.174,1 4 5 0 2 3,1 4 5 3 0 2
+medium,Simulated Annealing,20,39,True,920,919,1.193,4 5 0 3 1 2,1 4 5 3 0 2
+medium,Simulated Annealing,21,39,True,920,919,1.175,4 5 0 1 3 2,1 4 5 3 0 2
+medium,Simulated Annealing,22,39,True,920,919,1.18,4 5 1 0 3 2,1 4 5 3 0 2
+medium,Simulated Annealing,23,39,True,920,919,1.21,4 1 5 0 2 3,1 4 5 3 0 2
+medium,Simulated Annealing,24,39,True,920,919,1.171,4 5 0 1 3 2,1 4 5 3 0 2
+medium,Simulated Annealing,25,39,True,920,919,1.176,1 4 5 0 2 3,1 4 5 3 0 2
+medium,Simulated Annealing,26,39,True,920,919,1.203,4 5 0 3 1 2,1 4 5 3 0 2
+medium,Simulated Annealing,27,39,True,920,919,1.177,4 5 0 2 3 1,1 4 5 3 0 2
+medium,Simulated Annealing,28,39,True,920,919,1.156,4 5 1 0 3 2,1 4 5 3 0 2
+medium,Simulated Annealing,29,39,True,920,919,1.139,1 4 5 0 3 2,1 4 5 3 0 2
+medium,Genetic Algorithm,0,39,True,930,30,3.911,4 5 0 2 1 3,1 4 5 3 0 2
+medium,Genetic Algorithm,1,39,True,930,30,4.245,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Genetic Algorithm,2,39,True,930,30,3.999,1 4 5 0 3 2,1 4 5 3 0 2
+medium,Genetic Algorithm,3,39,True,930,30,4.042,4 5 0 1 2 3,1 4 5 3 0 2
+medium,Genetic Algorithm,4,39,True,930,30,3.947,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Genetic Algorithm,5,39,True,930,30,3.939,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Genetic Algorithm,6,39,True,930,30,3.963,4 1 5 0 2 3,1 4 5 3 0 2
+medium,Genetic Algorithm,7,39,True,930,30,3.9,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Genetic Algorithm,8,39,True,930,30,3.882,4 1 5 0 3 2,1 4 5 3 0 2
+medium,Genetic Algorithm,9,39,True,930,30,3.901,1 4 5 0 2 3,1 4 5 3 0 2
+medium,Genetic Algorithm,10,39,True,930,30,3.927,4 5 0 1 3 2,1 4 5 3 0 2
+medium,Genetic Algorithm,11,39,True,930,30,3.946,4 5 0 2 3 1,1 4 5 3 0 2
+medium,Genetic Algorithm,12,39,True,930,30,3.934,1 4 5 0 2 3,1 4 5 3 0 2
+medium,Genetic Algorithm,13,39,True,930,30,3.962,4 5 1 3 0 2,1 4 5 3 0 2
+medium,Genetic Algorithm,14,39,True,930,30,3.929,4 5 1 3 0 2,1 4 5 3 0 2
+medium,Genetic Algorithm,15,39,True,930,30,3.983,4 5 0 3 1 2,1 4 5 3 0 2
+medium,Genetic Algorithm,16,39,True,930,30,3.94,4 5 0 2 1 3,1 4 5 3 0 2
+medium,Genetic Algorithm,17,39,True,930,30,4.02,4 1 5 0 3 2,1 4 5 3 0 2
+medium,Genetic Algorithm,18,39,True,930,30,4.044,4 5 3 0 2 1,1 4 5 3 0 2
+medium,Genetic Algorithm,19,39,True,930,30,3.901,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Genetic Algorithm,20,39,True,930,30,3.978,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Genetic Algorithm,21,39,True,930,30,3.92,1 4 5 0 3 2,1 4 5 3 0 2
+medium,Genetic Algorithm,22,39,True,930,30,4.011,1 4 5 3 0 2,1 4 5 3 0 2
+medium,Genetic Algorithm,23,39,True,930,30,3.935,1 4 5 3 0 2,1 4 5 3 0 2
+medium,Genetic Algorithm,24,39,True,930,30,3.936,4 5 1 0 3 2,1 4 5 3 0 2
+medium,Genetic Algorithm,25,39,True,930,30,3.915,4 5 0 1 2 3,1 4 5 3 0 2
+medium,Genetic Algorithm,26,39,True,930,30,3.996,4 5 3 0 2 1,1 4 5 3 0 2
+medium,Genetic Algorithm,27,39,True,930,30,3.938,4 5 0 3 2 1,1 4 5 3 0 2
+medium,Genetic Algorithm,28,39,True,930,30,3.912,4 5 1 3 0 2,1 4 5 3 0 2
+medium,Genetic Algorithm,29,39,True,930,30,3.975,4 5 1 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),0,39,True,430,18,0.23,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),1,39,True,400,16,0.198,4 5 3 0 2 1,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),2,39,True,475,21,0.228,4 5 1 0 3 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),3,39,True,415,17,0.206,4 1 5 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),4,39,True,370,14,0.187,4 5 3 0 2 1,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),5,39,True,415,17,0.201,4 5 3 0 2 1,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),6,39,True,445,19,0.223,4 5 1 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),7,39,True,430,18,0.216,4 5 0 3 1 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),8,39,True,430,18,0.218,4 5 0 3 2 1,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),9,39,True,430,18,0.21,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),10,39,True,415,17,0.199,4 5 1 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),11,39,True,460,20,0.223,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),12,39,True,505,23,0.239,4 5 0 1 2 3,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),13,39,True,415,17,0.209,4 5 3 1 0 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),14,39,True,445,19,0.215,4 5 1 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),15,39,True,430,18,0.194,4 1 5 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),16,39,True,400,16,0.206,4 5 1 0 3 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),17,39,True,430,18,0.208,4 5 0 2 3 1,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),18,39,True,415,17,0.215,1 4 5 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),19,39,True,400,16,0.186,1 4 5 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),20,39,True,445,19,0.217,4 5 0 2 1 3,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),21,39,True,505,23,0.265,4 5 0 2 3 1,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),22,39,True,445,19,0.222,1 4 5 0 2 3,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),23,39,True,400,16,0.203,4 1 5 3 0 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),24,39,True,400,16,0.2,4 5 0 1 3 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),25,39,True,400,16,0.188,4 5 0 2 1 3,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),26,39,True,460,20,0.231,4 5 0 2 1 3,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),27,39,True,400,16,0.196,4 5 1 0 3 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),28,39,True,415,17,0.202,4 5 0 1 3 2,1 4 5 3 0 2
+medium,Hill Climbing (9 restarts),29,39,True,460,20,0.229,4 5 3 1 0 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),0,39,True,920,920,1.039,4 5 1 3 0 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),1,39,True,920,920,1.013,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Random sampling (920 orders),2,39,True,920,920,1.027,4 5 0 3 2 1,1 4 5 3 0 2
+medium,Random sampling (920 orders),3,39,True,920,920,1.002,4 5 0 1 2 3,1 4 5 3 0 2
+medium,Random sampling (920 orders),4,39,True,920,920,1.012,4 5 3 0 1 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),5,39,True,920,920,1.055,1 4 5 0 3 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),6,39,True,920,920,1.025,4 5 3 0 2 1,1 4 5 3 0 2
+medium,Random sampling (920 orders),7,39,True,920,920,0.994,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Random sampling (920 orders),8,39,True,920,920,1.01,4 1 5 0 3 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),9,39,True,920,920,0.996,4 5 0 2 1 3,1 4 5 3 0 2
+medium,Random sampling (920 orders),10,39,True,920,920,1.025,4 5 0 1 3 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),11,39,True,920,920,1.026,4 5 0 2 3 1,1 4 5 3 0 2
+medium,Random sampling (920 orders),12,39,True,920,920,1.021,4 5 1 0 3 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),13,39,True,920,920,1.007,4 5 0 3 2 1,1 4 5 3 0 2
+medium,Random sampling (920 orders),14,39,True,920,920,0.999,4 5 1 3 0 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),15,39,True,920,920,1.008,4 5 0 3 2 1,1 4 5 3 0 2
+medium,Random sampling (920 orders),16,39,True,920,920,1.009,4 5 0 2 1 3,1 4 5 3 0 2
+medium,Random sampling (920 orders),17,39,True,920,920,0.994,4 1 5 0 3 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),18,39,True,920,920,1.016,1 4 5 3 0 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),19,39,True,920,920,1.0,1 4 5 0 3 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),20,39,True,920,920,1.013,4 5 1 0 2 3,1 4 5 3 0 2
+medium,Random sampling (920 orders),21,39,True,920,920,1.007,4 5 0 1 3 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),22,39,True,920,920,1.015,4 5 3 0 2 1,1 4 5 3 0 2
+medium,Random sampling (920 orders),23,39,True,920,920,1.0,4 5 3 0 1 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),24,39,True,920,920,1.001,4 5 1 0 3 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),25,39,True,920,920,1.039,4 5 0 1 2 3,1 4 5 3 0 2
+medium,Random sampling (920 orders),26,39,True,920,920,1.014,4 5 3 0 2 1,1 4 5 3 0 2
+medium,Random sampling (920 orders),27,39,True,920,920,1.02,4 5 0 3 2 1,1 4 5 3 0 2
+medium,Random sampling (920 orders),28,39,True,920,920,1.041,4 5 1 3 0 2,1 4 5 3 0 2
+medium,Random sampling (920 orders),29,39,True,920,920,1.031,4 5 1 3 0 2,1 4 5 3 0 2
+large,Hill Climbing,0,28,True,85,2,0.055,1 2 5 4 0 3 7 6,0 1 2 3 5 6 7 4
+large,Hill Climbing,1,28,True,85,2,0.057,1 2 3 5 7 0 4 6,0 1 2 3 5 6 7 4
+large,Hill Climbing,2,33,False,29,0,0.024,5 3 4 1 2 6 7 0,3 5 6 7 4 1 0 2
+large,Hill Climbing,3,30,False,57,1,0.045,2 5 7 0 1 6 4 3,0 2 3 5 6 7 4 1
+large,Hill Climbing,4,28,True,57,1,0.043,1 2 5 4 7 0 6 3,0 1 2 3 5 6 7 4
+large,Hill Climbing,5,30,False,85,2,0.054,2 3 5 0 7 6 1 4,0 2 3 5 6 7 4 1
+large,Hill Climbing,6,33,False,29,0,0.029,5 7 6 4 0 2 3 1,3 5 6 7 4 1 0 2
+large,Hill Climbing,7,28,True,113,3,0.077,1 2 5 4 0 3 6 7,0 1 2 3 5 6 7 4
+large,Hill Climbing,8,31,False,85,2,0.062,0 4 6 5 1 7 2 3,0 1 4 7 6 5 3 2
+large,Hill Climbing,9,28,True,85,2,0.062,1 2 0 3 5 6 4 7,0 1 2 3 5 6 7 4
+large,Hill Climbing,10,28,True,57,1,0.04,1 2 5 7 4 6 3 0,0 1 2 3 5 6 7 4
+large,Hill Climbing,11,28,True,29,0,0.026,1 0 2 5 3 4 6 7,0 1 2 3 5 6 7 4
+large,Hill Climbing,12,30,False,85,2,0.059,2 5 0 6 4 1 3 7,0 2 3 5 6 7 4 1
+large,Hill Climbing,13,30,False,85,2,0.063,2 5 6 7 1 0 3 4,0 2 3 5 6 7 4 1
+large,Hill Climbing,14,28,True,85,2,0.059,1 2 5 7 6 3 4 0,0 1 2 3 5 6 7 4
+large,Hill Climbing,15,28,True,57,1,0.043,1 2 5 7 6 4 0 3,0 1 2 3 5 6 7 4
+large,Hill Climbing,16,30,False,85,2,0.055,2 5 0 7 4 6 3 1,0 2 3 5 6 7 4 1
+large,Hill Climbing,17,30,False,85,2,0.054,2 5 0 4 1 3 7 6,0 2 3 5 6 7 4 1
+large,Hill Climbing,18,28,True,85,2,0.057,1 2 5 7 3 6 0 4,0 1 2 3 5 6 7 4
+large,Hill Climbing,19,28,True,57,1,0.042,1 2 3 5 7 4 6 0,0 1 2 3 5 6 7 4
+large,Hill Climbing,20,28,True,85,2,0.061,1 2 5 6 0 3 7 4,0 1 2 3 5 6 7 4
+large,Hill Climbing,21,31,False,57,1,0.042,0 4 1 7 6 5 3 2,0 1 4 7 6 5 3 2
+large,Hill Climbing,22,28,True,85,2,0.057,1 2 5 3 4 0 6 7,0 1 2 3 5 6 7 4
+large,Hill Climbing,23,30,False,85,2,0.052,2 3 5 7 1 0 6 4,0 2 3 5 6 7 4 1
+large,Hill Climbing,24,28,True,57,1,0.041,1 2 0 5 3 4 7 6,0 1 2 3 5 6 7 4
+large,Hill Climbing,25,28,True,113,3,0.072,1 2 5 4 3 0 7 6,0 1 2 3 5 6 7 4
+large,Hill Climbing,26,30,False,57,1,0.039,2 5 4 0 7 1 6 3,0 2 3 5 6 7 4 1
+large,Hill Climbing,27,31,False,85,2,0.057,0 4 5 1 6 2 3 7,0 1 4 7 6 5 3 2
+large,Hill Climbing,28,28,True,85,2,0.061,1 2 5 6 4 7 0 3,0 1 2 3 5 6 7 4
+large,Hill Climbing,29,31,False,57,1,0.047,1 7 0 6 5 4 2 3,0 1 4 7 6 5 3 2
+large,Simulated Annealing,0,28,True,920,919,1.261,1 2 5 7 6 3 0 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,1,28,True,920,919,1.188,1 0 2 3 5 6 7 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,2,28,True,920,919,1.228,1 2 5 0 7 6 3 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,3,28,True,920,919,1.213,1 0 2 5 4 7 6 3,0 1 2 3 5 6 7 4
+large,Simulated Annealing,4,28,True,920,919,1.24,1 2 5 4 0 7 3 6,0 1 2 3 5 6 7 4
+large,Simulated Annealing,5,28,True,920,919,1.242,0 1 2 5 4 3 7 6,0 1 2 3 5 6 7 4
+large,Simulated Annealing,6,28,True,920,919,1.261,1 2 0 5 7 6 3 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,7,28,True,920,919,1.222,1 2 5 4 3 0 7 6,0 1 2 3 5 6 7 4
+large,Simulated Annealing,8,28,True,920,919,1.226,1 2 3 5 0 6 7 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,9,28,True,920,919,1.217,1 2 5 6 7 0 3 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,10,28,True,920,919,1.23,1 2 5 6 7 4 3 0,0 1 2 3 5 6 7 4
+large,Simulated Annealing,11,28,True,920,919,1.282,1 0 2 5 3 4 6 7,0 1 2 3 5 6 7 4
+large,Simulated Annealing,12,28,True,920,919,1.237,1 0 2 5 6 3 7 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,13,28,True,920,919,1.24,1 2 5 0 3 7 6 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,14,28,True,920,919,1.208,0 1 2 5 4 6 3 7,0 1 2 3 5 6 7 4
+large,Simulated Annealing,15,28,True,920,919,1.259,1 2 5 0 3 6 4 7,0 1 2 3 5 6 7 4
+large,Simulated Annealing,16,28,True,920,919,1.243,1 2 5 0 3 7 6 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,17,28,True,920,919,1.207,1 0 2 5 6 4 3 7,0 1 2 3 5 6 7 4
+large,Simulated Annealing,18,28,True,920,919,1.214,1 2 5 0 3 7 4 6,0 1 2 3 5 6 7 4
+large,Simulated Annealing,19,28,True,920,919,1.253,1 2 5 4 3 0 7 6,0 1 2 3 5 6 7 4
+large,Simulated Annealing,20,28,True,920,919,1.232,1 2 5 3 6 0 7 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,21,28,True,920,919,1.245,0 1 2 5 6 7 3 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,22,28,True,920,919,1.212,1 2 5 0 4 6 7 3,0 1 2 3 5 6 7 4
+large,Simulated Annealing,23,28,True,920,919,1.186,1 0 2 5 4 3 6 7,0 1 2 3 5 6 7 4
+large,Simulated Annealing,24,28,True,920,919,1.25,0 1 2 5 4 3 6 7,0 1 2 3 5 6 7 4
+large,Simulated Annealing,25,28,True,920,919,1.263,1 2 5 0 7 3 6 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,26,28,True,920,919,1.221,1 0 2 5 4 7 3 6,0 1 2 3 5 6 7 4
+large,Simulated Annealing,27,28,True,920,919,1.234,0 1 2 5 3 6 4 7,0 1 2 3 5 6 7 4
+large,Simulated Annealing,28,28,True,920,919,1.231,1 2 5 7 6 0 3 4,0 1 2 3 5 6 7 4
+large,Simulated Annealing,29,28,True,920,919,1.217,1 2 5 4 3 0 7 6,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,0,28,True,930,30,4.069,1 2 5 0 4 6 3 7,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,1,28,True,930,30,5.072,1 0 2 5 3 4 6 7,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,2,28,True,930,30,4.843,1 2 5 4 7 6 3 0,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,3,28,True,930,30,4.597,1 0 2 3 5 6 4 7,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,4,28,True,930,30,4.878,1 2 5 7 0 6 4 3,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,5,28,True,930,30,4.687,0 1 2 5 6 7 3 4,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,6,28,True,930,30,4.623,0 1 2 5 6 4 7 3,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,7,28,True,930,30,4.768,1 2 5 3 4 6 0 7,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,8,28,True,930,30,4.522,1 2 5 7 0 3 4 6,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,9,28,True,930,30,4.432,1 2 0 3 5 6 4 7,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,10,28,True,930,30,4.467,1 2 0 5 6 3 7 4,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,11,28,True,930,30,4.783,1 0 2 5 3 4 6 7,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,12,28,True,930,30,4.536,1 2 5 0 4 6 7 3,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,13,28,True,930,30,4.462,1 2 5 6 7 0 4 3,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,14,28,True,930,30,4.237,1 2 5 0 6 4 3 7,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,15,28,True,930,30,4.406,1 2 0 5 4 6 3 7,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,16,28,True,930,30,4.442,1 2 5 0 4 7 6 3,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,17,28,True,930,30,4.462,1 0 2 5 4 3 6 7,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,18,28,True,930,30,4.382,1 2 0 5 3 6 4 7,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,19,28,True,930,30,4.409,1 2 3 5 4 0 6 7,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,20,28,True,930,30,4.372,1 2 5 6 4 7 0 3,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,21,28,True,930,30,4.496,1 0 2 5 4 6 7 3,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,22,28,True,930,30,4.625,0 1 2 3 5 6 7 4,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,23,28,True,930,30,4.433,0 1 2 5 4 7 6 3,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,24,28,True,930,30,4.407,0 1 2 5 4 3 7 6,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,25,28,True,930,30,4.347,1 2 3 5 4 6 7 0,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,26,28,True,930,30,4.382,1 2 0 5 6 3 4 7,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,27,28,True,930,30,4.472,1 2 5 0 6 3 7 4,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,28,28,True,930,30,4.755,1 2 5 4 7 6 3 0,0 1 2 3 5 6 7 4
+large,Genetic Algorithm,29,28,True,930,30,4.51,1 2 3 5 7 6 0 4,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),0,28,True,738,16,0.434,1 2 5 4 0 3 7 6,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),1,28,True,934,23,0.49,1 2 3 5 7 0 4 6,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),2,28,True,710,15,0.396,0 1 2 5 4 3 7 6,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),3,28,True,710,15,0.403,1 0 2 5 4 6 7 3,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),4,28,True,626,12,0.338,1 2 5 4 7 0 6 3,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),5,28,True,626,12,0.339,1 2 3 5 0 7 4 6,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),6,28,True,682,14,0.351,1 2 5 3 7 0 4 6,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),7,28,True,766,17,0.522,1 2 5 4 0 3 6 7,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),8,28,True,710,15,0.386,1 0 2 5 4 6 3 7,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),9,28,True,794,18,0.441,1 2 0 3 5 6 4 7,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),10,28,True,710,15,0.415,1 2 5 7 4 6 3 0,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),11,28,True,738,16,0.383,1 0 2 5 3 4 6 7,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),12,28,True,682,14,0.372,1 2 5 4 3 0 7 6,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),13,28,True,850,20,0.511,1 2 5 4 7 6 0 3,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),14,28,True,710,15,0.413,1 2 5 7 6 3 4 0,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),15,28,True,850,20,0.479,1 2 5 7 6 4 0 3,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),16,28,True,738,16,0.387,1 2 5 6 0 3 7 4,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),17,28,True,738,16,0.412,1 2 5 4 3 7 0 6,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),18,28,True,934,23,0.531,1 2 5 7 3 6 0 4,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),19,28,True,738,16,0.394,1 2 3 5 7 4 6 0,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),20,28,True,794,18,0.419,1 2 5 6 0 3 7 4,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),21,28,True,766,17,0.413,1 2 0 5 3 4 6 7,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),22,28,True,962,24,0.516,1 2 5 3 4 0 6 7,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),23,28,True,738,16,0.387,1 2 5 6 0 7 4 3,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),24,28,True,766,17,0.419,1 2 0 5 3 4 7 6,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),25,28,True,878,21,0.449,1 2 5 4 3 0 7 6,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),26,28,True,738,16,0.409,1 2 5 3 4 6 0 7,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),27,30,False,654,13,0.341,2 5 4 6 7 3 0 1,0 2 3 5 6 7 4 1
+large,Hill Climbing (9 restarts),28,28,True,598,11,0.316,1 2 5 6 4 7 0 3,0 1 2 3 5 6 7 4
+large,Hill Climbing (9 restarts),29,28,True,710,15,0.407,1 0 2 3 5 7 6 4,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),0,28,True,920,920,1.255,0 1 2 5 7 3 6 4,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),1,28,True,920,920,1.259,1 2 5 3 7 4 0 6,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),2,28,True,920,920,1.241,1 2 5 0 4 3 7 6,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),3,28,True,920,920,1.342,1 2 3 5 4 7 6 0,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),4,28,True,920,920,1.252,1 0 2 5 4 7 3 6,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),5,28,True,920,920,1.271,1 2 5 4 6 7 3 0,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),6,28,True,920,920,1.275,0 1 2 5 6 4 3 7,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),7,28,True,920,920,1.312,1 2 0 5 3 4 7 6,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),8,28,True,920,920,1.264,1 2 5 3 7 6 4 0,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),9,28,True,920,920,1.336,1 2 0 3 5 6 4 7,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),10,28,True,920,920,1.269,1 2 0 5 6 3 7 4,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),11,28,True,920,920,1.215,1 0 2 5 3 4 6 7,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),12,28,True,920,920,1.255,1 2 5 6 3 0 4 7,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),13,28,True,920,920,1.231,1 2 5 4 7 0 3 6,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),14,28,True,920,920,1.242,0 1 2 5 7 3 6 4,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),15,28,True,920,920,1.242,1 2 5 0 3 6 4 7,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),16,28,True,920,920,1.228,1 2 5 3 4 6 7 0,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),17,28,True,920,920,1.225,1 2 5 6 3 0 4 7,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),18,28,True,920,920,1.227,1 2 0 5 3 6 4 7,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),19,28,True,920,920,1.257,1 2 5 7 3 4 0 6,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),20,28,True,920,920,1.238,1 2 5 3 4 7 6 0,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),21,28,True,920,920,1.23,1 2 0 5 3 6 4 7,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),22,28,True,920,920,1.215,0 1 2 3 5 6 7 4,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),23,28,True,920,920,1.228,1 0 2 5 6 3 4 7,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),24,28,True,920,920,1.22,0 1 2 5 4 3 7 6,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),25,28,True,920,920,1.242,1 0 2 5 6 4 3 7,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),26,28,True,920,920,1.244,1 2 5 7 0 4 6 3,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),27,28,True,920,920,1.23,0 1 2 3 5 6 4 7,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),28,28,True,920,920,1.222,1 2 5 0 4 7 6 3,0 1 2 3 5 6 7 4
+large,Random sampling (920 orders),29,28,True,920,920,1.229,1 2 3 5 7 6 0 4,0 1 2 3 5 6 7 4

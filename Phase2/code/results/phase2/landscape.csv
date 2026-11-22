@@ -1,0 +1,4 @@
+layout,orders,optimal_orders,best_cost,median_cost,worst_cost,stop_orders_global_optimum,stop_orders_local_optimum,stop_orders_shoulder,starts_ending_in_global_optimum,starts_ending_in_local_optimum,starts_ending_on_shoulder,hc_success_probability,mean_uphill_swap,median_uphill_swap
+small,120,2,38,59.0,74,2,0,4,93,0,27,0.775,8.85,8
+medium,720,18,39,67.0,96,18,0,9,606,0,114,0.8417,13.33,10
+large,40320,240,28,46.0,86,240,0,1778,18034,0,22286,0.4473,8.79,8

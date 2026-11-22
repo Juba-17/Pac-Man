@@ -1,0 +1,6 @@
+# The search algorithms and main.py use only the Python standard library.
+# Matplotlib (with its dependencies NumPy and Pillow) is needed only for the figures and
+# animations produced by the run scripts.
+matplotlib>=3.7
+numpy>=1.24
+pillow>=9.0

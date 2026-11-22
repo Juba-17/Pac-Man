@@ -1,0 +1,7 @@
+layout,variant,deepest_limit,steps,path_cost,nodes_expanded,nodes_generated,max_frontier,max_nodes_in_memory,time_ms
+small,IDS (textbook),22,22,42,11453,26498,26,48,22.82
+small,IDS with memo table,22,22,42,4246,9660,26,562,5.734
+medium,IDS (textbook),34,34,50,265249,603041,35,69,639.049
+medium,IDS with memo table,34,34,50,33257,74816,34,2238,45.332
+large,IDS (textbook),26,26,38,157635,374792,27,53,362.467
+large,IDS with memo table,26,26,38,36629,86576,26,5027,52.164

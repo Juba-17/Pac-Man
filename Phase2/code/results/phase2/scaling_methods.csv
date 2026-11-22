@@ -1,0 +1,21 @@
+pellets,method,runs,optimal_cost,best,mean,worst,optimal_runs,mean_evaluations,mean_percent_above_optimum
+8,Random sampling,20,56,56,57,60,12,10000,1.8
+8,Hill Climbing (restarts),20,56,56,56,56,20,10077,0.0
+8,Simulated Annealing,20,56,56,56,56,20,10001,0.0
+8,Genetic Algorithm,20,56,56,56,56,20,10000,0.0
+12,Random sampling,20,64,66,72.25,77,0,10000,12.9
+12,Hill Climbing (restarts),20,64,64,65.05,68,11,10174,1.6
+12,Simulated Annealing,20,64,64,65.35,68,7,10001,2.1
+12,Genetic Algorithm,20,64,68,69.9,75,0,10000,9.2
+16,Random sampling,20,76,85,88.65,93,0,10000,16.6
+16,Hill Climbing (restarts),20,76,76,82.25,86,1,10404,8.2
+16,Simulated Annealing,20,76,76,81.9,85,1,10001,7.8
+16,Genetic Algorithm,20,76,84,85.65,87,0,10000,12.7
+20,Random sampling,20,78,88,93.3,100,0,10000,19.6
+20,Hill Climbing (restarts),20,78,82,85.8,88,0,10451,10.0
+20,Simulated Annealing,20,78,78,84.7,88,3,10001,8.6
+20,Genetic Algorithm,20,78,85,87.45,90,0,10000,12.1
+24,Random sampling,20,84,95,105.65,115,0,10000,25.8
+24,Hill Climbing (restarts),20,84,87,93.35,99,0,10867,11.1
+24,Simulated Annealing,20,84,84,88.8,94,3,10001,5.7
+24,Genetic Algorithm,20,84,93,96.35,102,0,10000,14.7

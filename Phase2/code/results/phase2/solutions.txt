@@ -1,0 +1,190 @@
+Solution paths (U = up, R = right, D = down, L = left; '*' = visited cell)
+
+[small] Greedy (h1): cost 67, 39 moves
+RRDDLLDDUURRRRRRRRDDUUUULLDDLLDDUULLUUR
+###########
+#P***# ***#
+# G*# #*#*#
+#*********#
+#*G##*# #*#
+#*   *   *#
+###########
+
+[small] Greedy (h2): cost 42, 22 moves
+RRRLDDLLDDRRRRRRRRUUUU
+###########
+#P***#   *#
+# G*# # #*#
+#***     *#
+#*G## # #*#
+#*********#
+###########
+
+[small] A* (h1): cost 38, 26 moves
+RRRLDDRRRRUURRDDDDLLLLLLLL
+###########
+#P***# ***#
+# G*# #*#*#
+#  ***** *#
+# G## # #*#
+#*********#
+###########
+
+[small] A* (h2): cost 38, 26 moves
+RRRLDDRRRRUURRDDDDLLLLLLLL
+###########
+#P***# ***#
+# G*# #*#*#
+#  ***** *#
+# G## # #*#
+#*********#
+###########
+
+[small] Hill Climbing: best of 30 runs - cost 38, 26 moves, pellets eaten in the order (0, 1, 4, 3, 2) (seed 0)
+RRRLDDRRRRUURRDDDDLLLLLLLL
+
+[small] Simulated Annealing: best of 30 runs - cost 38, 26 moves, pellets eaten in the order (0, 1, 4, 3, 2) (seed 0)
+RRRLDDRRRRUURRDDDDLLLLLLLL
+
+[small] Genetic Algorithm: best of 30 runs - cost 38, 26 moves, pellets eaten in the order (0, 1, 4, 3, 2) (seed 0)
+RRRLDDRRRRUURRDDDDLLLLLLLL
+
+[small] Hill Climbing (9 restarts): best of 30 runs - cost 38, 26 moves, pellets eaten in the order (0, 1, 4, 3, 2) (seed 0)
+RRRLDDRRRRUURRDDDDLLLLLLLL
+
+[small] Random sampling (920 orders): best of 30 runs - cost 38, 26 moves, pellets eaten in the order (0, 1, 4, 3, 2) (seed 0)
+RRRLDDRRRRUURRDDDDLLLLLLLL
+
+[medium] Greedy (h1): cost 82, 54 moves
+RRRRDDRRUURRRRDDDDDDDDUULLLLLLLLLLDDUURRUURRRLLLUULLDD
+#############
+#P****#*****#
+# ###*G*###*#
+#*** ***   *#
+#*#*## ## #*#
+#*#****   #*#
+# #*G#### #*#
+#***********#
+#*### # ###*#
+#*    #    *#
+#############
+
+[medium] Greedy (h2): cost 50, 34 moves
+DDDDDDDDUURRUURRRUURUURRRRDDDDDDDD
+#############
+#P    #*****#
+#*### G*###*#
+#*    **   *#
+#*# ##*## #*#
+#*#****   #*#
+#*#*G#### #*#
+#***       *#
+#*### # ###*#
+#*    #    *#
+#############
+
+[medium] A* (h1): cost 39, 39 moves
+DDDDDDDDRRRRUURRRRRRDDUUUUUUUUDDLLDDLLL
+#############
+#P    #    *#
+#*### G ###*#
+#*       ***#
+#*# ## ##*#*#
+#*#   ****#*#
+#*# G#### #*#
+#*   *******#
+#*###*# ###*#
+#*****#    *#
+#############
+
+[medium] A* (h2): cost 39, 39 moves
+DDDDDDDDRRRRUURRRRRRDDUUUUUUUUDDLLDDLLL
+#############
+#P    #    *#
+#*### G ###*#
+#*       ***#
+#*# ## ##*#*#
+#*#   ****#*#
+#*# G#### #*#
+#*   *******#
+#*###*# ###*#
+#*****#    *#
+#############
+
+[medium] Hill Climbing: best of 30 runs - cost 39, 39 moves, pellets eaten in the order (1, 4, 5, 3, 0, 2) (seed 0)
+DDDDDDDDRRRRUURRRRRRDDUUUUUUUUDDLLDDLLL
+
+[medium] Simulated Annealing: best of 30 runs - cost 39, 39 moves, pellets eaten in the order (1, 4, 5, 3, 0, 2) (seed 0)
+DDDDDDDDRRRRUURRRRRRDDUUUUUUUUDDLLDDLLL
+
+[medium] Genetic Algorithm: best of 30 runs - cost 39, 39 moves, pellets eaten in the order (1, 4, 5, 3, 0, 2) (seed 0)
+DDDDDDDDRRRRUURRRRRRDDUUUUUUUUDDLLDDLLL
+
+[medium] Hill Climbing (9 restarts): best of 30 runs - cost 39, 39 moves, pellets eaten in the order (1, 4, 5, 3, 0, 2) (seed 0)
+DDDDDDDDRRRRUURRRRRRDDUUUUUUUUDDLLDDLLL
+
+[medium] Random sampling (920 orders): best of 30 runs - cost 39, 39 moves, pellets eaten in the order (1, 4, 5, 3, 0, 2) (seed 0)
+DDDDDDDDRRRRUURRRRRRDDUUUUUUUUDDLLDDLLL
+
+[large] Greedy (h1): cost 31, 27 moves
+RRRRRRDDLDDRDDLLLLLLUURUURR
+#########
+#P******#
+# # # #*#
+# *** **#
+##*##G*##
+#**   **#
+#*# # #*#
+#*******#
+#########
+
+[large] Greedy (h2): cost 34, 26 moves
+RRDDRRUURRDDLDDRDDLLLLLLUU
+#########
+#P** ***#
+# #*#*#*#
+#  *****#
+## ##G*##
+#*    **#
+#*# # #*#
+#*******#
+#########
+
+[large] A* (h1): cost 28, 28 moves
+RRRRRRLLLLDDRLLDDLDDRRRRRRUU
+#########
+#P******#
+# #*# # #
+# ***   #
+##*##G ##
+#**    *#
+#*# # #*#
+#*******#
+#########
+
+[large] A* (h2): cost 28, 28 moves
+RRRRRRLLLLDDRLLDDLDDRRRRRRUU
+#########
+#P******#
+# #*# # #
+# ***   #
+##*##G ##
+#**    *#
+#*# # #*#
+#*******#
+#########
+
+[large] Hill Climbing: best of 30 runs - cost 28, 28 moves, pellets eaten in the order (0, 1, 2, 3, 5, 6, 7, 4) (seed 0)
+RRRRRRLLLLDDRLLDDLDDRRRRRRUU
+
+[large] Simulated Annealing: best of 30 runs - cost 28, 28 moves, pellets eaten in the order (0, 1, 2, 3, 5, 6, 7, 4) (seed 0)
+RRRRRRLLLLDDRLLDDLDDRRRRRRUU
+
+[large] Genetic Algorithm: best of 30 runs - cost 28, 28 moves, pellets eaten in the order (0, 1, 2, 3, 5, 6, 7, 4) (seed 0)
+RRRRRRLLLLDDRLLDDLDDRRRRRRUU
+
+[large] Hill Climbing (9 restarts): best of 30 runs - cost 28, 28 moves, pellets eaten in the order (0, 1, 2, 3, 5, 6, 7, 4) (seed 0)
+RRRRRRLLLLDDRLLDDLDDRRRRRRUU
+
+[large] Random sampling (920 orders): best of 30 runs - cost 28, 28 moves, pellets eaten in the order (0, 1, 2, 3, 5, 6, 7, 4) (seed 0)
+RRRRRRLLLLDDRLLDDLDDRRRRRRUU

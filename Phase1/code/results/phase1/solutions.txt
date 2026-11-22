@@ -1,0 +1,145 @@
+Solution paths (U = up, R = right, D = down, L = left; '*' = visited cell)
+
+[small] BFS: cost 42, 22 moves
+RRRLDDLLDDRRRRRRRRUUUU
+###########
+#P***#   *#
+# G*# # #*#
+#***     *#
+#*G## # #*#
+#*********#
+###########
+
+[small] DFS: cost 66, 42 moves
+RRRLDDRRRRUURRDDDDUUUULLDDDDLLUULLUULLDDDD
+###########
+#P***# ***#
+#*G*# #*#*#
+#* ***** *#
+#*G##*#*#*#
+#*   *** *#
+###########
+
+[small] UCS: cost 38, 26 moves
+RRRLDDRRRRUURRDDDDLLLLLLLL
+###########
+#P***# ***#
+# G*# #*#*#
+#  ***** *#
+# G## # #*#
+#*********#
+###########
+
+[small] IDS: cost 42, 22 moves
+RRRLDDLLDDRRRRRRRRUUUU
+###########
+#P***#   *#
+# G*# # #*#
+#***     *#
+#*G## # #*#
+#*********#
+###########
+
+[medium] BFS: cost 50, 34 moves
+DDDDDDDDUURRUURRRUURUURRRRDDDDDDDD
+#############
+#P    #*****#
+#*### G*###*#
+#*    **   *#
+#*# ##*## #*#
+#*#****   #*#
+#*#*G#### #*#
+#***       *#
+#*### # ###*#
+#*    #    *#
+#############
+
+[medium] DFS: cost 143, 111 moves
+RRRRDDRRUURRRRDDDDUUUULLLLDDRRDDDDRRDDUUUUUUUULLLLDDRRDDDDLLLLDDLLLLUUUUUUUURRRRDDRRUURRRRDDDDDDDDLLLLUURRUULLL
+#############
+#P****#*****#
+#*###*G*###*#
+#*   ***** *#
+#*# ## ##*#*#
+#*#   ****#*#
+#*# G####*#*#
+#*   *******#
+#*###*#*###*#
+#*****#*****#
+#############
+
+[medium] UCS: cost 39, 39 moves
+DDDDDDDDRRRRUURRRRRRDDUUUUUUUUDDLLDDLLL
+#############
+#P    #    *#
+#*### G ###*#
+#*       ***#
+#*# ## ##*#*#
+#*#   ****#*#
+#*# G#### #*#
+#*   *******#
+#*###*# ###*#
+#*****#    *#
+#############
+
+[medium] IDS: cost 50, 34 moves
+DDDDDDDDUURRUURRRUURUURRRRDDDDDDDD
+#############
+#P    #*****#
+#*### G*###*#
+#*    **   *#
+#*# ##*## #*#
+#*#****   #*#
+#*#*G#### #*#
+#***       *#
+#*### # ###*#
+#*    #    *#
+#############
+
+[large] BFS: cost 38, 26 moves
+RRRRRRDDLLLRRDDRDDLLLLLLUU
+#########
+#P******#
+# # # #*#
+#   ****#
+## ##G*##
+#*    **#
+#*# # #*#
+#*******#
+#########
+
+[large] DFS: cost 116, 80 moves
+RRRRRRDDLDDRDDUULUURUULLDDLRUURRDDLDDRDDLLUULLDDRRUURUURUULLDDLLUULLDDRDDRDDLLUU
+#########
+#P******#
+#*#*#*#*#
+#*******#
+##*##G*##
+#*******#
+#*#*#*#*#
+#*******#
+#########
+
+[large] UCS: cost 28, 28 moves
+RRRRRRLLLLDDRLLDDLDDRRRRRRUU
+#########
+#P******#
+# #*# # #
+# ***   #
+##*##G ##
+#**    *#
+#*# # #*#
+#*******#
+#########
+
+[large] IDS: cost 38, 26 moves
+RRRRRRDDLLLRRDDRDDLLLLLLUU
+#########
+#P******#
+# # # #*#
+#   ****#
+## ##G*##
+#*    **#
+#*# # #*#
+#*******#
+#########

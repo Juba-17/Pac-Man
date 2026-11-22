@@ -1,0 +1,7 @@
+layout,heuristic,states_checked,transitions_checked,admissible,consistent,worst_overestimate,mean_ratio,h_start,true_cost_start,setup_ms,distinct_values,states_below_start_value,goal_below_start_value,h2_dominates_h1,states_where_h2_is_larger
+small,h1,1016,2288,True,True,0,0.459,12,38,0.001,13,237,False,True,768
+small,h2,1016,2288,True,True,0,0.713,22,38,0.043,26,520,True,True,768
+medium,h1,4160,9312,True,True,0,0.508,18,39,0.001,19,1017,False,True,3599
+medium,h2,4160,9312,True,True,0,0.877,34,39,0.083,38,2097,True,True,3599
+large,h1,8576,20096,True,True,0,0.457,12,28,0.002,13,2018,False,True,8061
+large,h2,8576,20096,True,True,0,0.859,24,28,0.064,26,4341,True,True,8061
