@@ -17,10 +17,7 @@ Amir Elsamahy (202401724), Ebrahim Mohamed Rabia (202401474), Ahmed Mostafa (202
 | `Phase2/report/` | Phase II report | yes |
 | `Phase2/contribution/` | one-page contribution statement | yes |
 | `Phase2/video/` | as for Phase I | the video: yes - `preparation/`: no |
-| `Study_Guide/` | preparation for the oral discussion: code walkthrough, theory questions, "what if" questions | no (for you) |
-| `Project_Description.docx` | the course brief | no |
-| `make_phase1_archive.bat`, `make_phase2_archive.bat` | build the single archive that has to be uploaded (they call `make_submission_archive.ps1`) | - |
-| `_document_tools/` | the scripts that generated the reports, statements, slides and study guide from the results | no |
+
 
 
 
