@@ -54,20 +54,6 @@ by this script, run with Python pinned to one processor core (see "Reproducibili
 | `figures/` | layouts, explored states + final path, search trees, bar charts, frontier growth, IDS iterations, scaling |
 | `animations/` | animated GIFs of the four searches on the large layout |
 
-## Files
-
-| File | What it contains |
-|---|---|
-| `pacman_search/problem.py` | the formal model: `State`, `PacmanProblem` (initial state, actions, transition, step cost, goal test, state-space size) |
-| `pacman_search/layouts.py` | the four maze layouts as ASCII maps |
-| `pacman_search/search_core.py` | `Node`, `SearchResult`, and the counters shared by all algorithms |
-| `pacman_search/uninformed.py` | **BFS, DFS, UCS, IDS** |
-| `pacman_search/experiments.py` | timing, memory measurement, the exact steps-versus-cost comparison, the state-graph profile, CSV / table helpers |
-| `pacman_search/visualize.py` | all figures and animations (Matplotlib) |
-| `main.py` | command-line interface |
-| `run_phase1.py` | reproduces every table and figure of the report |
-| `tests/test_phase1.py` | unit tests (model, algorithms, counters, an independent brute-force check of the optimal cost) |
-| `example_maze.txt` | a small maze file for `--layout-file` |
 
 ## The four algorithms in one line each
 
@@ -98,34 +84,4 @@ it gives up the memory advantage. `ids_variants.csv` compares the two.
 All timings are taken before any search is traced for a picture. `main.py` prints the time
 of a single run, so its times are a little higher and less steady than those of the tables.
 
-## Reproducibility
 
-The four algorithms are deterministic (fixed action order UP, RIGHT, DOWN, LEFT and
-first-in-first-out tie-breaking), so every run produces exactly the same paths, costs and
-node counts. Only the running times (and, slightly, the peak-memory readings) differ from
-run to run and from machine to machine.
-
-Steady timings: on a laptop whose processor has fast and slow cores, the operating system
-moves a running program between the cores, and identical runs can then differ by a factor
-of two to three. The submitted results were therefore measured with Python pinned to one
-fast core, at high priority:
-
-| System | Command |
-|---|---|
-| Windows | `cmd /c start /b /wait /high /affinity 1000 python run_phase1.py` |
-| Linux | `taskset -c 0 python run_phase1.py` |
-
-`1000` is a hexadecimal mask that selects core 12, one of the fast cores of our laptop. On
-another computer use `/affinity 1` (the first core); if the processor has fast and slow
-cores, choose a fast one.
-
-## Layout symbols
-
-```
-#  wall      G  ghost      .  food pellet      P  Pac-Man's start      (space)  corridor
-```
-
-## Use of AI tools
-
-An AI assistant was used during the development of this project. It is acknowledged in
-the report, in the section "Use of AI tools".
